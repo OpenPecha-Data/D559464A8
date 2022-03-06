@@ -2016,76 +2016,76 @@ annotations:
     reference: ''
     span:
       start: 375645
-      end: 376751
+      end: 376749
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   1455f807f5464e0a9e11e94a8da4ce89:
     imgnum: 978
     reference: ''
     span:
-      start: 376753
-      end: 377988
+      start: 376751
+      end: 377986
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   696980f9eafa4e648dd938f2fcf0f792:
     imgnum: 979
     reference: ''
     span:
-      start: 377990
-      end: 379222
+      start: 377988
+      end: 379220
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   9c1586fc8bdd4196a8ddc46f4a807183:
     imgnum: 980
     reference: ''
     span:
-      start: 379224
-      end: 380516
+      start: 379222
+      end: 380514
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   70dd3626b3b34f9da3f63c7ef28f8298:
     imgnum: 981
     reference: ''
     span:
-      start: 380518
-      end: 381820
+      start: 380516
+      end: 381818
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   a366f395b7f047219bae6d663197b2cf:
     imgnum: 982
     reference: ''
     span:
-      start: 381822
-      end: 383116
+      start: 381820
+      end: 383114
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   4668b76bcb4f4e3c839e9fd78f95afa2:
     imgnum: 983
     reference: ''
     span:
-      start: 383118
-      end: 384446
+      start: 383116
+      end: 384444
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   9e858d85c9b54995bf0f9dec23502fb0:
     imgnum: 984
     reference: ''
     span:
-      start: 384448
-      end: 385765
+      start: 384446
+      end: 385763
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   d1ccba68b53a47308dec91551f7a8cec:
     imgnum: 985
     reference: ''
     span:
-      start: 385767
-      end: 387100
+      start: 385765
+      end: 387098
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   ba5ae2b16631491a8f1e68645270b42e:
     imgnum: 986
     reference: ''
     span:
-      start: 387102
-      end: 388438
+      start: 387100
+      end: 388436
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   e6000f94e94f4d30ae21b1a7f0cfcb46:
     imgnum: 987
     reference: ''
     span:
-      start: 388440
+      start: 388438
       end: 389749
     note_ref: 4d0ecf6d4cd84c2b9d1904d922ef559f
   42ee7399a1f64aee9d50268ca2dbed9a:
