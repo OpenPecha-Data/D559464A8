@@ -1,0 +1,22 @@
+id: D559464A8
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T14:01:58+00:00'
+last_modified: '2022-05-29T08:07:40.295099+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    e2ee:
+      image_group_id: I1PD95917
+      title: རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་དངོས་གཞིའི་ས་མང་པོ།
+      total_pages: 1406
+      order: 72
+      base_file: e2ee.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
